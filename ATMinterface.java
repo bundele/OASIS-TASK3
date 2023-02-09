@@ -108,9 +108,9 @@ class BankAccount {
             System.out.println("A. Check Balance");
             System.out.println("B. Deposit");
             System.out.println("C. Withdraw");
-            System.out.println("D. Transaction History");
+            System.out.println("D. Previous Transaction");
             System.out.println("E. Transfer");
-            System.out.println("F. Quit");
+            System.out.println("F. Exit");
 
             System.out.println("=================================");
             System.out.println("Enter the option");
